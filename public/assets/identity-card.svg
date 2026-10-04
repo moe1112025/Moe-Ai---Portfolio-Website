@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#1affae" stop-opacity=".9"/>
+      <stop offset=".55" stop-color="#37d7ff" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#ff4c5f" stop-opacity=".18"/>
+    </linearGradient>
+    <radialGradient id="r"><stop offset="0" stop-color="#1affae" stop-opacity=".34"/><stop offset="1" stop-color="#0b0e10" stop-opacity="0"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="800" height="1000" rx="42" fill="#080a0b"/>
+  <circle cx="610" cy="220" r="260" fill="url(#r)" filter="url(#blur)"/>
+  <path d="M132 838C200 680 276 600 400 600s200 80 268 238v52H132z" fill="#111618" stroke="#263136"/>
+  <ellipse cx="400" cy="440" rx="156" ry="184" fill="#0f1416" stroke="url(#g)" stroke-width="8"/>
+  <path d="M250 460c18-140 92-216 150-216s132 76 150 216c-42-42-96-66-150-66s-108 24-150 66z" fill="#151c1e"/>
+  <path d="M320 450h70M410 450h70" stroke="#1affae" stroke-width="8" stroke-linecap="round"/>
+  <path d="M350 532c32 22 68 22 100 0" stroke="#37d7ff" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M188 300L92 206M612 300l96-94M168 610l-88 70M632 610l88 70" stroke="#203234" stroke-width="2"/>
+  <g fill="#1affae">
+    <circle cx="94" cy="206" r="6"/><circle cx="706" cy="206" r="6"/><circle cx="80" cy="680" r="6"/><circle cx="720" cy="680" r="6"/>
+  </g>
+  <text x="400" y="90" fill="#dffdf4" font-family="Inter,Arial,sans-serif" font-size="28" text-anchor="middle" letter-spacing="7">IDENTITY / SECURITY ENGINEER</text>
+  <text x="400" y="930" fill="#1affae" font-family="JetBrains Mono,monospace" font-size="56" text-anchor="middle" letter-spacing="6">MHA / PC</text>
+</svg>

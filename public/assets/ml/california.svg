@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071114"/><stop offset="1" stop-color="#040607"/></linearGradient><radialGradient id="r"><stop stop-color="#67e9ff" stop-opacity=".28"/><stop offset="1" stop-color="#2b6670" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="630" fill="url(#g)"/><circle cx="930" cy="100" r="300" fill="url(#r)"/>
+<g opacity=".22" stroke="#67e9ff" fill="none"><circle cx="900" cy="315" r="80"/><circle cx="900" cy="315" r="130"/><circle cx="900" cy="315" r="185"/><circle cx="900" cy="315" r="245"/></g>
+<g opacity=".22" stroke="#dffaff"><path d="M80 500H1120"/><path d="M120 90V560"/><path d="M240 120V530"/><path d="M360 90V560"/></g>
+<g fill="#67e9ff"><circle cx="900" cy="315" r="10"/><circle cx="740" cy="210" r="5"/><circle cx="1040" cy="240" r="6"/><circle cx="1000" cy="425" r="5"/></g>
+<path d="M740 210L900 315L1040 240M900 315L1000 425" stroke="#67e9ff" stroke-opacity=".35"/>
+<text x="80" y="205" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700" fill="#eefbfc">CALIFORNIA HOUSING</text>
+<text x="80" y="268" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#67e9ff" letter-spacing="3">LINEAR REGRESSION</text>
+<text x="80" y="520" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#79888e" letter-spacing="4">REGRESSION</text>
+</svg>

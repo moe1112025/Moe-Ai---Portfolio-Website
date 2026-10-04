@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#0b2b25"/><stop offset="1" stop-color="#031014"/></linearGradient></defs>
+<rect width="1200" height="720" fill="#050607"/><rect x="45" y="45" width="1110" height="630" rx="28" fill="url(#a)" stroke="#1affae" stroke-opacity=".45"/>
+<circle cx="600" cy="345" r="168" fill="#091215" stroke="#37d7ff" stroke-width="3"/><circle cx="600" cy="345" r="112" fill="#081417" stroke="#1affae" stroke-width="3"/>
+<g stroke="#1affae" opacity=".5"><path d="M600 177v336M432 345h336M480 225l240 240M720 225L480 465"/><circle cx="600" cy="345" r="218" fill="none" stroke-dasharray="7 12"/></g>
+<text x="78" y="104" fill="#8aa9a1" font-size="22" font-family="monospace">AI / LLM SECURITY ASSESSMENT PLATFORM</text>
+<text x="78" y="160" fill="#eafff7" font-size="48" font-family="Arial" font-weight="700">SHADOW-AI</text>
+<text x="78" y="208" fill="#1affae" font-size="20" font-family="monospace">RECON • ATTACK-SURFACE • EVIDENCE • REPORTING</text>
+<text x="600" y="355" fill="#d9fff5" font-size="32" text-anchor="middle" font-family="monospace">ASSESSMENT CORE</text>
+</svg>

@@ -1,0 +1,17 @@
+MOE HTET AR KAR — CINEMATIC PORTFOLIO v5
+
+1. Install Node.js 20.19+.
+2. Open this project folder in VS Code.
+3. Run: npm install
+4. Verify: npm run verify
+5. Development: npm run dev
+6. Production build: npm run build
+
+V5 narrative:
+Security Core -> Security Evidence -> Applied Intelligence -> Engineering Intersection -> Journey -> Credentials -> Contact
+
+Primary role:
+Cybersecurity Engineer | AI Red Teamer | Penetration Tester
+
+Applied track:
+Machine Learning | Computer Vision | Edge AI | Multimodal Systems

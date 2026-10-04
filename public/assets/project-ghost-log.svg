@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<rect width="1200" height="720" fill="#050607"/>
+<rect x="70" y="72" width="1060" height="576" rx="30" fill="#0b0f10" stroke="#ff4c5f" stroke-opacity=".35"/>
+<g font-family="monospace"><text x="110" y="132" fill="#8aa9a1" font-size="20">ENDPOINT SECURITY ANALYST / READ-ONLY TELEMETRY</text>
+<text x="110" y="184" fill="#eafff7" font-family="Arial" font-weight="700" font-size="48">GHOST-LOG</text>
+<text x="110" y="226" fill="#37d7ff" font-size="20">PROCESS TRIAGE • POLICY ANALYSIS • STRUCTURED REPORTING</text>
+<rect x="110" y="284" width="980" height="260" rx="16" fill="#081012" stroke="#1c292c"/>
+<text x="140" y="326" fill="#5e7672">PID    PROCESS                 CPU   MEM     REVIEW</text>
+<text x="140" y="370" fill="#dffaf2">2124   python.exe              7.1%  118MB   REVIEW</text>
+<text x="140" y="412" fill="#dffaf2">4056   explorer.exe            3.0%   88MB   NORMAL</text>
+<text x="140" y="454" fill="#ff6a76">5188   admin-tool.exe         12.7%  210MB  ELEVATED REVIEW</text>
+<text x="140" y="496" fill="#1affae">REPORT STATUS: READY FOR ANALYST REVIEW</text></g>
+</svg>
